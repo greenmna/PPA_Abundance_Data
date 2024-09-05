@@ -1,0 +1,49 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Verrucomicrobiota	74201	P	236375	4380	240755	0.71127
+Planctomycetota	203682	P	201	3	204	0.00060
+Chlamydiota	204428	P	18	2	20	0.00006
+Kiritimatiellaeota	134625	P	7	3	10	0.00003
+Lentisphaerota	256845	P	2	0	2	0.00001
+Candidatus Omnitrophica	67812	P	1	0	1	0.00000
+Bacillota	1239	P	38447	5301	43748	0.12925
+Actinomycetota	201174	P	4650	92	4742	0.01401
+Cyanobacteriota	1117	P	458	0	458	0.00135
+Mycoplasmatota	544448	P	123	2	125	0.00037
+Deinococcota	1297	P	82	0	82	0.00024
+Chloroflexota	200795	P	42	0	42	0.00012
+Thermomicrobiota	3027942	P	4	0	4	0.00001
+Bacteroidota	976	P	31031	115	31146	0.09202
+Chlorobiota	1090	P	63	0	63	0.00019
+Ignavibacteriae	1134404	P	5	0	5	0.00001
+Balneolota	1936987	P	2	0	2	0.00001
+Gemmatimonadota	142182	P	9	0	9	0.00003
+Fibrobacterota	65842	P	4	0	4	0.00001
+Pseudomonadota	1224	P	13146	928	14074	0.04158
+Spirochaetota	203691	P	272	9	281	0.00083
+Fusobacteriota	32066	P	92	9	101	0.00030
+Acidobacteriota	57723	P	67	0	67	0.00020
+Synergistota	508458	P	66	0	66	0.00019
+Thermotogota	200918	P	62	0	62	0.00018
+Aquificota	200783	P	17	0	17	0.00005
+Deferribacteres	200930	P	15	0	15	0.00004
+Elusimicrobia	74152	P	10	0	10	0.00003
+Thermodesulfobacteria	200940	P	8	0	8	0.00002
+Nitrospirota	40117	P	6	0	6	0.00002
+Chrysiogenetes	200938	P	6	1	7	0.00002
+Candidatus Absconditabacteria	221235	P	2	0	2	0.00001
+Candidatus Bipolaricaulota	67810	P	1	0	1	0.00000
+Candidatus Saccharibacteria	95818	P	1	1	2	0.00001
+Dictyoglomi	68297	P	3	0	3	0.00001
+Calditrichaeota	1930617	P	2	0	2	0.00001
+Atribacterota	67818	P	1	1	2	0.00001
+Chordata	7711	P	820	1108	1928	0.00570
+Euryarchaeota	28890	P	260	0	260	0.00077
+Crenarchaeota	28889	P	44	0	44	0.00013
+Thaumarchaeota	651137	P	21	0	21	0.00006
+Candidatus Lokiarchaeota	1655434	P	7	0	7	0.00002
+Candidatus Thermoplasmatota	2283796	P	4	0	4	0.00001
+Uroviricota	2731618	P	39	0	39	0.00012
+Peploviricota	2731361	P	3	8	11	0.00003
+Nucleocytoviricota	2732007	P	8	0	8	0.00002
+Negarnaviricota	2497569	P	2	0	2	0.00001
+Kitrinoviricota	2732406	P	1	2	3	0.00001

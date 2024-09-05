@@ -1,0 +1,63 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Verrucomicrobiota	74201	P	619189	11986	631175	0.50305
+Planctomycetota	203682	P	1203	3	1206	0.00096
+Chlamydiota	204428	P	116	15	131	0.00010
+Kiritimatiellaeota	134625	P	35	1	36	0.00003
+Lentisphaerota	256845	P	10	0	10	0.00001
+Candidatus Omnitrophica	67812	P	6	0	6	0.00000
+Bacillota	1239	P	360382	52254	412636	0.32887
+Actinomycetota	201174	P	34061	374	34435	0.02744
+Cyanobacteriota	1117	P	2563	0	2563	0.00204
+Mycoplasmatota	544448	P	1051	29	1080	0.00086
+Deinococcota	1297	P	695	0	695	0.00055
+Chloroflexota	200795	P	316	0	316	0.00025
+Armatimonadetes	67819	P	23	0	23	0.00002
+Thermomicrobiota	3027942	P	21	0	21	0.00002
+Pseudomonadota	1224	P	78021	3656	81677	0.06510
+Bacteroidota	976	P	70069	262	70331	0.05605
+Chlorobiota	1090	P	175	0	175	0.00014
+Ignavibacteriae	1134404	P	57	0	57	0.00005
+Balneolota	1936987	P	16	0	16	0.00001
+Gemmatimonadota	142182	P	45	0	45	0.00004
+Fibrobacterota	65842	P	26	0	26	0.00002
+Candidatus Cloacimonetes	456828	P	7	0	7	0.00001
+Spirochaetota	203691	P	1662	58	1720	0.00137
+Fusobacteriota	32066	P	808	127	935	0.00075
+Synergistota	508458	P	493	6	499	0.00040
+Acidobacteriota	57723	P	370	0	370	0.00029
+Thermotogota	200918	P	262	6	268	0.00021
+Nitrospirota	40117	P	84	0	84	0.00007
+Deferribacteres	200930	P	68	0	68	0.00005
+Elusimicrobia	74152	P	62	0	62	0.00005
+Chrysiogenetes	200938	P	59	18	77	0.00006
+Thermodesulfobacteria	200940	P	55	0	55	0.00004
+Aquificota	200783	P	43	0	43	0.00003
+Candidatus Saccharibacteria	95818	P	11	1	12	0.00001
+Candidatus Bipolaricaulota	67810	P	9	10	19	0.00002
+Candidatus Absconditabacteria	221235	P	3	0	3	0.00000
+Dictyoglomi	68297	P	12	0	12	0.00001
+Calditrichaeota	1930617	P	11	14	25	0.00002
+Caldiserica	67814	P	2	0	2	0.00000
+Coprothermobacterota	2138240	P	1	0	1	0.00000
+Chordata	7711	P	4518	6870	11388	0.00908
+Euryarchaeota	28890	P	1419	0	1419	0.00113
+Crenarchaeota	28889	P	237	2	239	0.00019
+Thaumarchaeota	651137	P	136	0	136	0.00011
+Candidatus Korarchaeota	51967	P	3	0	3	0.00000
+Candidatus Thermoplasmatota	2283796	P	42	0	42	0.00003
+Candidatus Lokiarchaeota	1655434	P	13	0	13	0.00001
+Candidatus Micrarchaeota	1801631	P	3	0	3	0.00000
+Nanoarchaeota	192989	P	1	0	1	0.00000
+Uroviricota	2731618	P	304	9	313	0.00025
+Peploviricota	2731361	P	20	0	20	0.00002
+Nucleocytoviricota	2732007	P	88	0	88	0.00007
+Preplasmiviricota	2732008	P	6	47	53	0.00004
+Negarnaviricota	2497569	P	9	0	9	0.00001
+Duplornaviricota	2732405	P	4	0	4	0.00000
+Kitrinoviricota	2732406	P	4	0	4	0.00000
+Pisuviricota	2732408	P	2	0	2	0.00000
+Lenarviricota	2732407	P	1	8	9	0.00001
+Artverviricota	2732409	P	2	13	15	0.00001
+Cressdnaviricota	2732416	P	3	0	3	0.00000
+Cossaviricota	2732415	P	1	0	1	0.00000
+Taleaviricota	2840024	P	2	2	4	0.00000

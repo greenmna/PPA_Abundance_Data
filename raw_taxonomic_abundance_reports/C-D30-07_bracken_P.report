@@ -1,0 +1,55 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Verrucomicrobiota	74201	P	103964	1754	105718	0.46421
+Planctomycetota	203682	P	215	1	216	0.00095
+Chlamydiota	204428	P	26	0	26	0.00011
+Kiritimatiellaeota	134625	P	7	0	7	0.00003
+Candidatus Omnitrophica	67812	P	1	0	1	0.00000
+Lentisphaerota	256845	P	1	0	1	0.00000
+Bacillota	1239	P	73912	11050	84962	0.37307
+Actinomycetota	201174	P	5838	62	5900	0.02591
+Cyanobacteriota	1117	P	532	0	532	0.00234
+Mycoplasmatota	544448	P	352	4	356	0.00156
+Deinococcota	1297	P	103	0	103	0.00045
+Chloroflexota	200795	P	59	0	59	0.00026
+Thermomicrobiota	3027942	P	5	0	5	0.00002
+Armatimonadetes	67819	P	3	0	3	0.00001
+Pseudomonadota	1224	P	14539	722	15261	0.06701
+Bacteroidota	976	P	9671	31	9702	0.04260
+Chlorobiota	1090	P	39	0	39	0.00017
+Ignavibacteriae	1134404	P	23	0	23	0.00010
+Fibrobacterota	65842	P	4	0	4	0.00002
+Gemmatimonadota	142182	P	4	0	4	0.00002
+Candidatus Cloacimonetes	456828	P	3	0	3	0.00001
+Spirochaetota	203691	P	404	9	413	0.00181
+Fusobacteriota	32066	P	203	12	215	0.00094
+Synergistota	508458	P	90	1	91	0.00040
+Acidobacteriota	57723	P	62	0	62	0.00027
+Thermotogota	200918	P	60	1	61	0.00027
+Deferribacteres	200930	P	16	0	16	0.00007
+Nitrospirota	40117	P	15	0	15	0.00007
+Aquificota	200783	P	12	0	12	0.00005
+Chrysiogenetes	200938	P	10	2	12	0.00005
+Thermodesulfobacteria	200940	P	8	0	8	0.00004
+Elusimicrobia	74152	P	7	0	7	0.00003
+Candidatus Saccharibacteria	95818	P	3	2	5	0.00002
+Candidatus Bipolaricaulota	67810	P	1	0	1	0.00000
+Calditrichaeota	1930617	P	4	0	4	0.00002
+Dictyoglomi	68297	P	2	2	4	0.00002
+Caldiserica	67814	P	1	0	1	0.00000
+Chordata	7711	P	1698	1693	3391	0.01489
+Euryarchaeota	28890	P	294	0	294	0.00129
+Thaumarchaeota	651137	P	42	0	42	0.00018
+Crenarchaeota	28889	P	40	0	40	0.00018
+Candidatus Thermoplasmatota	2283796	P	10	0	10	0.00004
+Candidatus Lokiarchaeota	1655434	P	2	0	2	0.00001
+Candidatus Nanohaloarchaeota	1462430	P	1	0	1	0.00000
+Uroviricota	2731618	P	50	1	51	0.00022
+Peploviricota	2731361	P	4	0	4	0.00002
+Nucleocytoviricota	2732007	P	14	0	14	0.00006
+Preplasmiviricota	2732008	P	3	9	12	0.00005
+Negarnaviricota	2497569	P	2	0	2	0.00001
+Kitrinoviricota	2732406	P	2	0	2	0.00001
+Duplornaviricota	2732405	P	1	0	1	0.00000
+Lenarviricota	2732407	P	1	4	5	0.00002
+Cressdnaviricota	2732416	P	2	1	3	0.00001
+Taleaviricota	2840024	P	1	1	2	0.00001

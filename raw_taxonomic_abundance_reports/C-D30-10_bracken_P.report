@@ -1,0 +1,51 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacillota	1239	P	192070	16041	208111	0.88293
+Actinomycetota	201174	P	1835	16	1851	0.00785
+Cyanobacteriota	1117	P	777	0	777	0.00330
+Mycoplasmatota	544448	P	697	5	702	0.00298
+Chloroflexota	200795	P	34	0	34	0.00014
+Deinococcota	1297	P	33	0	33	0.00014
+Armatimonadetes	67819	P	2	0	2	0.00001
+Pseudomonadota	1224	P	10728	541	11269	0.04781
+Bacteroidota	976	P	5057	8	5065	0.02149
+Chlorobiota	1090	P	22	0	22	0.00009
+Ignavibacteriae	1134404	P	17	0	17	0.00007
+Balneolota	1936987	P	3	0	3	0.00001
+Gemmatimonadota	142182	P	4	0	4	0.00002
+Candidatus Cloacimonetes	456828	P	1	0	1	0.00000
+Fusobacteriota	32066	P	405	26	431	0.00183
+Spirochaetota	203691	P	317	3	320	0.00136
+Thermotogota	200918	P	170	0	170	0.00072
+Planctomycetota	203682	P	61	0	61	0.00026
+Verrucomicrobiota	74201	P	55	0	55	0.00023
+Chlamydiota	204428	P	33	0	33	0.00014
+Kiritimatiellaeota	134625	P	3	1	4	0.00002
+Lentisphaerota	256845	P	1	0	1	0.00000
+Aquificota	200783	P	39	0	39	0.00017
+Acidobacteriota	57723	P	31	0	31	0.00013
+Synergistota	508458	P	23	0	23	0.00010
+Deferribacteres	200930	P	23	0	23	0.00010
+Atribacterota	67818	P	13	0	13	0.00006
+Candidatus Saccharibacteria	95818	P	7	5	12	0.00005
+Thermodesulfobacteria	200940	P	10	11	21	0.00009
+Nitrospirota	40117	P	5	0	5	0.00002
+Elusimicrobia	74152	P	3	0	3	0.00001
+Chrysiogenetes	200938	P	2	0	2	0.00001
+Dictyoglomi	68297	P	1	0	1	0.00000
+Chordata	7711	P	2904	3127	6031	0.02559
+Euryarchaeota	28890	P	276	0	276	0.00117
+Crenarchaeota	28889	P	66	0	66	0.00028
+Thaumarchaeota	651137	P	32	0	32	0.00014
+Candidatus Thermoplasmatota	2283796	P	9	0	9	0.00004
+Candidatus Lokiarchaeota	1655434	P	3	0	3	0.00001
+Uroviricota	2731618	P	80	0	80	0.00034
+Peploviricota	2731361	P	2	0	2	0.00001
+Nucleocytoviricota	2732007	P	33	0	33	0.00014
+Preplasmiviricota	2732008	P	1	0	1	0.00000
+Negarnaviricota	2497569	P	4	0	4	0.00002
+Lenarviricota	2732407	P	4	0	4	0.00002
+Pisuviricota	2732408	P	3	0	3	0.00001
+Kitrinoviricota	2732406	P	1	10	11	0.00005
+Cossaviricota	2732415	P	1	0	1	0.00000
+Cressdnaviricota	2732416	P	1	0	1	0.00000
+Taleaviricota	2840024	P	1	0	1	0.00000
